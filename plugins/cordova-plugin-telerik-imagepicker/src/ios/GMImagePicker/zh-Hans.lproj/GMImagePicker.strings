@@ -1,0 +1,34 @@
+﻿/* Cancel */
+"picker.navigation.cancel-button" = "取消";
+
+/* Done */
+"picker.navigation.done-button" = "完成";
+
+/* Navigation bar default title */
+"picker.navigation.title" = "我的相册";
+
+/* %@ Items Selected */
+"picker.selection.multiple-items" = "已选中 %@ 项";
+
+/* %@ Photos Selected */
+"picker.selection.multiple-photos" = "已选中 %@ 张照片";
+
+/* %@ Videos Selected */
+"picker.selection.multiple-videos" = "已选中 %@ 个视频";
+
+/* 1 Photo Selected */
+"picker.selection.single-photo" = "已选中 1 张照片";
+
+/* 1 Video Selected */
+"picker.selection.single-video" = "已选中 1 个视频";
+
+/* All photos */
+"picker.table.all-photos-label" = "相机胶卷";
+
+/* Smart Albums */
+"picker.table.smart-albums-header" = "智能相册";
+
+/* Albums */
+"picker.table.user-albums-header" = "相册";
+
+

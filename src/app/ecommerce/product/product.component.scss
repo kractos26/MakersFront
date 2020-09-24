@@ -1,0 +1,65 @@
+.distan 
+{
+  
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+img{
+   width: 200px; 
+   height: 200px;
+}
+
+
+  .id-card-wrapper {
+   
+    padding-left: 10px;
+    padding-top: 10px;
+    display: flex;
+  }
+  .id-card {
+    flex-basis: 100%;
+    max-width: 100%;
+    border: 1px solid rgb(97, 245, 245);
+    margin: auto;
+    color: #fff;
+    padding: 1em;
+    background-color: #0A2129;
+    box-shadow: 0px 0px 3px 1px #12a0a0, inset 0px 0px 3px 1px #12a0a0;
+  }
+  
+.card {
+  border: 1px solid rgb(97, 245, 245);
+  background-color: #0A2129;
+  color:white;
+  box-shadow: 0px 0px 3px 1px #12a0a0, inset 0px 0px 3px 1px #12a0a0;
+}
+
+
+  
+  img {
+    max-width: 200px;
+    border-radius: 50%;
+    display: block;
+    box-shadow: 0px 0px 4px 3px #12a0a0;
+  }
+ 
+  @keyframes rotate-clock {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+   
+
+  @keyframes rotate-anticlock {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(-360deg);
+    }
+  }
+  

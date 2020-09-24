@@ -1,0 +1,16 @@
+
+<div id="circularMenu1" class="circular-menu circular-menu-left active">
+
+    <a class="floating-btn" onclick="document.getElementById('circularMenu1').classList.toggle('active');">
+      
+      <i class="fa fa-bars"></i>
+    </a>
+  
+    <menu class="items-wrapper">
+      <a href="#"*ngFor="let sidebarnavItem of sidebarnavItems"  [routerLink]="sidebarnavItem.class === '' ? [sidebarnavItem.path] : null" class="menu-item fa fa-home">
+          
+      </a>
+    
+    </menu>
+  
+  </div>
